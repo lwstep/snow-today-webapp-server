@@ -1,7 +1,3 @@
-# v0.21.2 (2026-01-20)
-
-* Change snow cover units on website to "sq km"
-
 # v0.21.1 (2024-03-18)
 
 * Add a field `unit` to the SweVariable type
